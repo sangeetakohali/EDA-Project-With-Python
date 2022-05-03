@@ -29,7 +29,7 @@ Packages/Libraries-:
 
 4.Seaborn
 
-## Project Link-: https://github.com/sangeetakohali/EDA-Project-With-Python
+## Project Link-: https://github.com/sangeetakohali/EDA-Project-With-Python/blob/master/Netflix%20Data%20Analysis%20using%20python.ipynb
 
 
 
